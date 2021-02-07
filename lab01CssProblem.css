@@ -12,7 +12,7 @@ h1{
 
 /*Make all <li> elements in the shade of hexadecimal blue*/
 li{
-    color: lightblue;
+    color: #0000FF;
 }
 
 /*Paragraph background to orange*/
@@ -25,6 +25,7 @@ p{
 h3 {
     border-bottom-style: solid;
     border-bottom-width: 5px;
+    border-style: solid;
     border-color: red;
   }
 
