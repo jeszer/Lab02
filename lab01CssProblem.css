@@ -47,13 +47,13 @@ div.benefits p{
 }
 
 /*Make <li> adjacent to <h2> red background*/
-li{
+li h2{
     background-color: red;
 }
 
 
 /*Give <em> inside <p> red and bold*/
-.em{
+.em p{
     background-color: red;
     font-weight: bold;
 }
